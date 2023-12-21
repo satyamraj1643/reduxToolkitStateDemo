@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React with Redux( Won't take the pain to edit all this premade Readme.md by cra template:) ).
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
